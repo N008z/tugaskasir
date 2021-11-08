@@ -1,0 +1,16 @@
+C:\Users\Fake\kasir\bin\Debug\net5.0\kasir.exe
+C:\Users\Fake\kasir\bin\Debug\net5.0\kasir.deps.json
+C:\Users\Fake\kasir\bin\Debug\net5.0\kasir.runtimeconfig.json
+C:\Users\Fake\kasir\bin\Debug\net5.0\kasir.runtimeconfig.dev.json
+C:\Users\Fake\kasir\bin\Debug\net5.0\kasir.dll
+C:\Users\Fake\kasir\bin\Debug\net5.0\ref\kasir.dll
+C:\Users\Fake\kasir\bin\Debug\net5.0\kasir.pdb
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.csproj.AssemblyReference.cache
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.AssemblyInfoInputs.cache
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.AssemblyInfo.cs
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.csproj.CoreCompileInputs.cache
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.dll
+C:\Users\Fake\kasir\obj\Debug\net5.0\ref\kasir.dll
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.pdb
+C:\Users\Fake\kasir\obj\Debug\net5.0\kasir.genruntimeconfig.cache
